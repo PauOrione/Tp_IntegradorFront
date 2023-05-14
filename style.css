@@ -1,0 +1,113 @@
+/* tamaño de la fuente del nav */
+.size {
+    font-size: 13px;
+}
+
+/* color de comprar tickets */
+.tickets{
+    color: green;
+}
+
+/* fondo de imagen */
+.fotoba{
+    background-color: rgb(27, 27, 27) } 
+
+ /* Conf. Bs As */
+h1{
+  text-align: right;
+  font-weight: bold;
+ }    
+
+ /* texto sobre imagen */
+.texto{
+    text-align: right;
+}
+ 
+/* frases centradas */
+.frases{
+    text-align: center;
+    font-size: 15px;
+}
+/* orador oradores */
+h6{
+    font-size: 30px;
+}
+
+/* botones sobre imagen */
+.botones{
+    padding-left: 5%;
+    padding-bottom: 5%;
+}
+
+
+/* boton amarillo */
+.btn-primary-amarillo{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+/* boton celeste */
+.btn-secondary-celeste{
+    background-color: lightskyblue;
+    font-weight: bold;
+}
+
+ /* boton gris */
+.btn-secondary-gris{
+    background-color: grey;
+    font-weight: bold;
+}
+
+/* boton rojo */
+.btn-secondary-rojo{
+    background-color: red;
+    font-weight: bold;
+}
+
+/* tamaño de las cartas */
+.col1{
+height: 500px;
+width: 300px;
+}
+
+/* posicion del conjunto de cartas */
+.posicionCartas{
+ justify-content: center;
+ padding-bottom: 50px;
+}
+
+.fondo-honolulu{
+    background-color: #353A40;
+    color: white;
+}
+
+.recuerda{
+    font-size: 10px;
+}
+
+.enviar{
+    display: flex;
+    justify-content: center;
+}
+
+.botonEnviar{
+    background-color: #96C93E;
+    margin-bottom: 10px;
+    border-radius: 5px ;
+    text-align: center;
+    border: 0px;  
+    height: 40px;
+    color: white;
+}
+ 
+ .posicion{
+    padding-bottom: 20px;
+} 
+
+.cFooter{
+    background-color: #006d65;
+    color: white;
+    padding: 15px;
+}
+
+
