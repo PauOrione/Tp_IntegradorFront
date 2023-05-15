@@ -1,6 +1,6 @@
 
 .size {
-    font-size: 13px;
+    font-size: 10px;
 }
 
 
@@ -10,85 +10,78 @@
 
 
 .fotoba{
-    background-color: rgb(27, 27, 27) } 
+    background-color: rgb(0, 0, 0.8) } 
 
  
 h1{
   text-align: right;
-  font-weight: bold;
+  font-weight: lighter;
  }    
 
- /* texto sobre imagen */
+ 
 .texto{
     text-align: center;
 }
  
-/* frases centradas */
-.frases{
+
+.frase{
     text-align: center;
     font-size: 15px;
 }
-/* orador oradores */
+
 h6{
     font-size: 20px;
 }
 
-/* botones sobre imagen */
+
 .botones{
     padding-left: 5%;
     padding-bottom: 5%;
 }
 
 
-/* boton amarillo */
-.btn-primary-naranja{
-    background-color:orange;
+
+.btn-primary-nar{
+    background-color:rgb(209, 140, 13);
     font-weight: bold;
 }
 
-/* boton celeste */
+
 .btn-secondary-azul{
     background-color: rgb(17, 90, 136);
     font-weight: bold;
 }
 
- /* boton gris */
+ 
 .btn-secondary-gris{
     background-color: grey;
     font-weight: bold;
 }
 
-/* boton rojo */
+
 .btn-secondary-rojo{
     background-color: red;
     font-weight: bold;
 }
 
-/* tamaño de las cartas */
+
 .col1{
 height: 500px;
 width: 300px;
 }
 
-/* posicion del conjunto de cartas */
 .posicionCartas{
  justify-content: center;
  padding-bottom: 50px;
 }
 
 .fondo-honolulu{
-    background-color: #353A40;
+    background-color: #4a5d7c;
     color: white;
 }
 
  .posicion{
     padding-bottom: 20px;
 } 
-
-.cFooter{
-    background-color: #006d65;
-    color: white;
-    padding: 15px;
-}
 
 
