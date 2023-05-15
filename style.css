@@ -1,18 +1,18 @@
-/* tamaño de la fuente del nav */
+
 .size {
     font-size: 13px;
 }
 
-/* color de comprar tickets */
-.tickets{
-    color: green;
+
+.tcks{
+    color: rgb(53, 212, 53);
 }
 
-/* fondo de imagen */
+
 .fotoba{
     background-color: rgb(27, 27, 27) } 
 
- /* Conf. Bs As */
+ 
 h1{
   text-align: right;
   font-weight: bold;
@@ -20,7 +20,7 @@ h1{
 
  /* texto sobre imagen */
 .texto{
-    text-align: right;
+    text-align: center;
 }
  
 /* frases centradas */
@@ -30,7 +30,7 @@ h1{
 }
 /* orador oradores */
 h6{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 /* botones sobre imagen */
@@ -41,14 +41,14 @@ h6{
 
 
 /* boton amarillo */
-.btn-primary-amarillo{
+.btn-primary-naranja{
     background-color: yellow;
     font-weight: bold;
 }
 
 /* boton celeste */
-.btn-secondary-celeste{
-    background-color: lightskyblue;
+.btn-secondary-azul{
+    background-color: rgb(17, 90, 136);
     font-weight: bold;
 }
 
@@ -81,25 +81,6 @@ width: 300px;
     color: white;
 }
 
-.recuerda{
-    font-size: 10px;
-}
-
-.enviar{
-    display: flex;
-    justify-content: center;
-}
-
-.botonEnviar{
-    background-color: #96C93E;
-    margin-bottom: 10px;
-    border-radius: 5px ;
-    text-align: center;
-    border: 0px;  
-    height: 40px;
-    color: white;
-}
- 
  .posicion{
     padding-bottom: 20px;
 } 
